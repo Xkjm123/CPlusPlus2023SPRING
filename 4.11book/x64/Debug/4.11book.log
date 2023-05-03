@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\孙珈瑜\Desktop\C++2023SPRING\4.11book\main.cpp(9,44): warning C4305: “参数”: 从“double”到“float”截断
+  4.11book.vcxproj -> C:\Users\孙珈瑜\Desktop\C++2023SPRING\4.11book\x64\Debug\4.11book.exe
